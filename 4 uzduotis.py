@@ -30,7 +30,7 @@ print(movie1.title, movie1.director)
 #print(movie1.title)
 
 #movie2.budget = 500
-#print(movie2.budget)
+print(movie2.budget)
 
 
 
